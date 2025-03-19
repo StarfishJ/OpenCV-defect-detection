@@ -2,6 +2,8 @@
 
 A defect detection system for jar lids based on OpenCV and machine learning, capable of automatically identifying whether jar lids are intact or damaged.
 
+![Alt text](./Screenshot.png) 
+
 ## Features
 
 - Supports multiple image formats (JPG, JPEG, PNG)
